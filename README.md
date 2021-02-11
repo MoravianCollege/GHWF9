@@ -5,7 +5,7 @@ Practice space for using the Github Workflow.
 
 Participants:
 Ben Coleman
-Edwin Cojitambo
+Edwin Cojitambo (cojitamboe@moravian.edu)
 
 ## Setup
 
