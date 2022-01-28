@@ -5,7 +5,7 @@ Practice space for using the Github Workflow.
 
 Participants:
 Abdullah Alramyan
-Ben Coleman
+Dr. Ben Coleman
 Ben Jones
 My Mom
 Uncle Richard
